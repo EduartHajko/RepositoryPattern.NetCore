@@ -1,0 +1,10 @@
+C:\Users\ehajko.OPTIMAALBANIA\source\repos\CoreUnityOfWork\unityOfWork.DTO\bin\Debug\netcoreapp3.1\unityOfWork.DTO.deps.json
+C:\Users\ehajko.OPTIMAALBANIA\source\repos\CoreUnityOfWork\unityOfWork.DTO\bin\Debug\netcoreapp3.1\unityOfWork.DTO.runtimeconfig.json
+C:\Users\ehajko.OPTIMAALBANIA\source\repos\CoreUnityOfWork\unityOfWork.DTO\bin\Debug\netcoreapp3.1\unityOfWork.DTO.runtimeconfig.dev.json
+C:\Users\ehajko.OPTIMAALBANIA\source\repos\CoreUnityOfWork\unityOfWork.DTO\bin\Debug\netcoreapp3.1\unityOfWork.DTO.dll
+C:\Users\ehajko.OPTIMAALBANIA\source\repos\CoreUnityOfWork\unityOfWork.DTO\bin\Debug\netcoreapp3.1\unityOfWork.DTO.pdb
+C:\Users\ehajko.OPTIMAALBANIA\source\repos\CoreUnityOfWork\unityOfWork.DTO\obj\Debug\netcoreapp3.1\unityOfWork.DTO.csprojAssemblyReference.cache
+C:\Users\ehajko.OPTIMAALBANIA\source\repos\CoreUnityOfWork\unityOfWork.DTO\obj\Debug\netcoreapp3.1\unityOfWork.DTO.AssemblyInfoInputs.cache
+C:\Users\ehajko.OPTIMAALBANIA\source\repos\CoreUnityOfWork\unityOfWork.DTO\obj\Debug\netcoreapp3.1\unityOfWork.DTO.AssemblyInfo.cs
+C:\Users\ehajko.OPTIMAALBANIA\source\repos\CoreUnityOfWork\unityOfWork.DTO\obj\Debug\netcoreapp3.1\unityOfWork.DTO.dll
+C:\Users\ehajko.OPTIMAALBANIA\source\repos\CoreUnityOfWork\unityOfWork.DTO\obj\Debug\netcoreapp3.1\unityOfWork.DTO.pdb

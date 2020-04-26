@@ -1,0 +1,13 @@
+C:\Users\ehajko.OPTIMAALBANIA\source\repos\CoreUnityOfWork\unityOfWork.BuissnesServices\bin\Debug\netcoreapp3.1\unityOfWork.BuissnesServices.deps.json
+C:\Users\ehajko.OPTIMAALBANIA\source\repos\CoreUnityOfWork\unityOfWork.BuissnesServices\bin\Debug\netcoreapp3.1\unityOfWork.BuissnesServices.dll
+C:\Users\ehajko.OPTIMAALBANIA\source\repos\CoreUnityOfWork\unityOfWork.BuissnesServices\bin\Debug\netcoreapp3.1\unityOfWork.BuissnesServices.pdb
+C:\Users\ehajko.OPTIMAALBANIA\source\repos\CoreUnityOfWork\unityOfWork.BuissnesServices\bin\Debug\netcoreapp3.1\unityOfWork.DTO.dll
+C:\Users\ehajko.OPTIMAALBANIA\source\repos\CoreUnityOfWork\unityOfWork.BuissnesServices\bin\Debug\netcoreapp3.1\unityOfWork.Repository.dll
+C:\Users\ehajko.OPTIMAALBANIA\source\repos\CoreUnityOfWork\unityOfWork.BuissnesServices\bin\Debug\netcoreapp3.1\unityOfWork.DTO.pdb
+C:\Users\ehajko.OPTIMAALBANIA\source\repos\CoreUnityOfWork\unityOfWork.BuissnesServices\bin\Debug\netcoreapp3.1\unityOfWork.Repository.pdb
+C:\Users\ehajko.OPTIMAALBANIA\source\repos\CoreUnityOfWork\unityOfWork.BuissnesServices\obj\Debug\netcoreapp3.1\unityOfWork.BuissnesServices.csprojAssemblyReference.cache
+C:\Users\ehajko.OPTIMAALBANIA\source\repos\CoreUnityOfWork\unityOfWork.BuissnesServices\obj\Debug\netcoreapp3.1\unityOfWork.BuissnesServices.AssemblyInfoInputs.cache
+C:\Users\ehajko.OPTIMAALBANIA\source\repos\CoreUnityOfWork\unityOfWork.BuissnesServices\obj\Debug\netcoreapp3.1\unityOfWork.BuissnesServices.AssemblyInfo.cs
+C:\Users\ehajko.OPTIMAALBANIA\source\repos\CoreUnityOfWork\unityOfWork.BuissnesServices\obj\Debug\netcoreapp3.1\unityOfWork.BuissnesServices.csproj.CopyComplete
+C:\Users\ehajko.OPTIMAALBANIA\source\repos\CoreUnityOfWork\unityOfWork.BuissnesServices\obj\Debug\netcoreapp3.1\unityOfWork.BuissnesServices.dll
+C:\Users\ehajko.OPTIMAALBANIA\source\repos\CoreUnityOfWork\unityOfWork.BuissnesServices\obj\Debug\netcoreapp3.1\unityOfWork.BuissnesServices.pdb
