@@ -17,7 +17,7 @@ N-Tier Architecture
 
 Integrate Identity Framework and learn how to add more fields to Users
 
-Integrate Entity Framework along with code first migrations
+Integrate Entity Framework along with db first model
 
 Authentication and Authorization in ASP.NET Core 3.1
 
