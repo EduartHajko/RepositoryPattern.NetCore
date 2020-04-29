@@ -9,7 +9,7 @@ using unityOfWork.BuissnesServices.IServices;
 namespace CoreUnityOfWork.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
+    [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
     {
 

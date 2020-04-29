@@ -5,3 +5,4 @@ C:\Users\ehajko.OPTIMAALBANIA\source\repos\CoreUnityOfWork\unityOfWork.DataModel
 C:\Users\ehajko.OPTIMAALBANIA\source\repos\CoreUnityOfWork\unityOfWork.DataModel\obj\Debug\netcoreapp3.1\unityOfWork.DataModel.AssemblyInfo.cs
 C:\Users\ehajko.OPTIMAALBANIA\source\repos\CoreUnityOfWork\unityOfWork.DataModel\obj\Debug\netcoreapp3.1\unityOfWork.DataModel.dll
 C:\Users\ehajko.OPTIMAALBANIA\source\repos\CoreUnityOfWork\unityOfWork.DataModel\obj\Debug\netcoreapp3.1\unityOfWork.DataModel.pdb
+C:\Users\ehajko.OPTIMAALBANIA\source\repos\CoreUnityOfWork\unityOfWork.DataModel\obj\Debug\netcoreapp3.1\unityOfWork.DataModel.csprojAssemblyReference.cache
