@@ -19,6 +19,7 @@ Integrate Identity Framework and learn how to add more fields to Users
 
 Integrate Entity Framework along with db first model
 
+PM> dotnet ef dbcontext scaffold "Server=(localdb)\mssqllocaldb;Database=NetCoreDb;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer --project unityOfWork.DTO
 
 Authentication and Authorization in ASP.NET Core 3.1
 
