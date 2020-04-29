@@ -19,9 +19,17 @@ Integrate Identity Framework and learn how to add more fields to Users
 
 Integrate Entity Framework along with db first model
 
+
 Authentication and Authorization in ASP.NET Core 3.1
 
+
 Sessions in ASP.NET Core 3.1
+
+
 JWToken Authentication
+
+
 Custom Midleware Wrapper
+
+
 Real time application using Signal R and Quartz.net as job scheduler
