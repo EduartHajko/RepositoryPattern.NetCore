@@ -24,3 +24,4 @@ Authentication and Authorization in ASP.NET Core 3.1
 Sessions in ASP.NET Core 3.1
 JWToken Authentication
 Custom Midleware Wrapper
+Real time application using Signal R and Quartz.net as job scheduler
